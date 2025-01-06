@@ -1,0 +1,14 @@
+{
+    "name": "aws-amplify-app",
+    "version": "1.0.0",
+    "description": "Simple AWS Amplify Application",
+    "main": "js/app.js",
+    "scripts": {
+      "start": "serve",
+      "build": "echo 'No build step required'"
+    },
+    "dependencies": {
+      "serve": "^14.0.0"
+    }
+  }
+  
