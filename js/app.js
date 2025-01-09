@@ -10,7 +10,7 @@ const App = () => {
     const header = document.createElement('header');
     header.className = 'header';
     const title = document.createElement('h1');
-    title.textContent = 'Welcome to AWS Amplify';
+    title.textContent = 'Welcome to AWS Amplify new';
     header.appendChild(title);
 
     // Create content section
